@@ -178,7 +178,7 @@ sections:
     title: No more One-Chance Payment
     content: Start achieving your goals today!
     actions:
-      - label: Try for free
+      - label: Get Started
         url: /thank-you
         style: primary
     actions_width: fourty
