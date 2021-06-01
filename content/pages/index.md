@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We answer your Call
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Keep your '
     actions:
       - label: Try for free
         url: /pricing
