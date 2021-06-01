@@ -31,11 +31,6 @@
                 "label": "Log in",
                 "url": "/thank-you",
                 "style": "secondary"
-            },
-            {
-                "label": "Get Started",
-                "url": "/thank-you",
-                "style": "primary"
             }
         ]
     },
