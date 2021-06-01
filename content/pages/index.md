@@ -95,7 +95,7 @@ sections:
   - type: features_section
     features:
       - title: '“Now, we are safe with refunds and quality service delivery”'
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: 'Oluwagbemi Adams, Lead Developer at InTech'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
