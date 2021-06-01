@@ -175,7 +175,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: 'No more, One-Chance Payment'
     content: Start achieving your goals today!
     actions:
       - label: Try for free
