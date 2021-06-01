@@ -89,6 +89,7 @@ sections:
         media_position: right
         media_width: sixty
         title: Manage your progress
+        subtitle: The cutest way
     feature_padding_vert: large
     align: center
     background_color: none
