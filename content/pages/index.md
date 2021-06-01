@@ -43,7 +43,7 @@ sections:
   - type: features_section
     title: Our Customers tell the Story?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Safe
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
