@@ -88,7 +88,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-        title: Your progress is our hapiness
+        title: Your progress is our happiness
     feature_padding_vert: large
     align: center
     background_color: none
