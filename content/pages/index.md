@@ -94,7 +94,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: “”
+      - title: '“Now, I don''t bother if my ”'
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
