@@ -94,7 +94,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: '“Now, we are safe with refund”'
+      - title: '“Now, we are safe with refunds and quality service delivery”'
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
