@@ -41,7 +41,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Our Customers tell the Story?
+    title: Our Customers tell the Story
     features:
       - title: Manage your Sales
         content: >-
