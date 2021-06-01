@@ -61,7 +61,7 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Careers",
                 "url": "/blog/category/news",
                 "style": "link"
             },
