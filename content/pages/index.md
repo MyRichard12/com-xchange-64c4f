@@ -41,7 +41,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Our Customers tell the Story?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
