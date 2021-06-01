@@ -28,7 +28,7 @@
                 "style": "link"
             },
             {
-                "label": "Log in",
+                "label": "Log In",
                 "url": "/thank-you",
                 "style": "secondary"
             }
