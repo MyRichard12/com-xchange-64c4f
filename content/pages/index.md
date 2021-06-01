@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We answer your Call
-    subtitle: 'We care for your '
+    subtitle: We care for your deliveries
     actions:
       - label: Try for free
         url: /pricing
