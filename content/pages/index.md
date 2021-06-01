@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We answer your Call
-    subtitle: 'Keep your '
+    subtitle: 'Keep your Xchange and '
     actions:
       - label: Try for free
         url: /pricing
