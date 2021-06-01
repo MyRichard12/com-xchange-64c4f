@@ -19,7 +19,8 @@
             },
             {
                 "url": "/faq",
-                "style": "link"
+                "style": "link",
+                "label": "Developers"
             },
             {
                 "label": "Blog",
