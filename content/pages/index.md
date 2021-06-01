@@ -5,7 +5,7 @@ sections:
     title: We answer your Call
     subtitle: We care for your deliveries
     actions:
-      - label: Try for free
+      - label: Start for Free
         url: /pricing
         style: primary
     image: images/hero.svg
